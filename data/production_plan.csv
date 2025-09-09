@@ -1,0 +1,11 @@
+product_id,product_name,planned_qty,plan_date
+P001,Interior_White,500,2024-01-05
+P002,Exterior_Blue,700,2024-01-05
+P003,Primer,300,2024-01-05
+P004,Exterior_Green,400,2024-01-05
+P005,Enamel_Red,200,2024-01-05
+P001,Interior_White,600,2024-01-12
+P002,Exterior_Blue,650,2024-01-12
+P003,Primer,350,2024-01-12
+P004,Exterior_Green,300,2024-01-12
+P005,Enamel_Red,250,2024-01-12

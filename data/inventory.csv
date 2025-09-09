@@ -1,0 +1,6 @@
+product_id,product_name,available_qty,warehouse
+P001,Interior_White,1200,Mumbai_WH
+P002,Exterior_Blue,800,Pune_WH
+P003,Primer,600,Delhi_WH
+P004,Exterior_Green,500,Bangalore_WH
+P005,Enamel_Red,700,Chennai_WH

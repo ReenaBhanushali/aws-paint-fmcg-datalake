@@ -1,0 +1,16 @@
+order_id,region,product_id,product_name,order_date,quantity
+101,Mumbai,P001,Interior_White,2024-01-01,250
+102,Pune,P002,Exterior_Blue,2024-01-01,180
+103,Delhi,P003,Primer,2024-01-02,400
+104,Bangalore,P001,Interior_White,2024-01-02,300
+105,Chennai,P004,Exterior_Green,2024-01-03,150
+106,Mumbai,P002,Exterior_Blue,2024-01-04,200
+107,Delhi,P005,Enamel_Red,2024-01-04,120
+108,Pune,P003,Primer,2024-01-05,500
+109,Bangalore,P004,Exterior_Green,2024-01-06,100
+110,Chennai,P001,Interior_White,2024-01-06,350
+111,Mumbai,P005,Enamel_Red,2024-01-07,220
+112,Delhi,P002,Exterior_Blue,2024-01-08,180
+113,Pune,P004,Exterior_Green,2024-01-08,200
+114,Bangalore,P003,Primer,2024-01-09,300
+115,Chennai,P001,Interior_White,2024-01-09,400
