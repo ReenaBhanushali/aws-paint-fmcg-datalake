@@ -13,7 +13,7 @@ LEFT JOIN paint_fmcg_db.production_plan pp
     ON so.product_id = pp.product_id
 GROUP BY so.product_id, so.product_name, inv.available_qty, pp.planned_qty;
 
-create table sales_stock_summary as 
+create table balance_stock_summary as 
 SELECT 
     s.product_id,
     SUM(s.quantity) AS total_ordered,
@@ -24,3 +24,4 @@ LEFT JOIN inventory i
     ON s.product_id = i.product_id
 GROUP BY s.product_id, i.available_qty
 ORDER BY balance_stock ASC;
+
