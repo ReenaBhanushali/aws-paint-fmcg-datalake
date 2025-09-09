@@ -36,7 +36,7 @@ The goal is to integrate **sales orders, ERP inventory, and production planning 
 ---
 
 ## Sample Dashboard
-![Superset Dashboard](dashboards/analysis-dashboard.jpg)
+![Superset Dashboard](dashboards/analysis-dashboard.jpg
 
 ---
 
@@ -50,3 +50,4 @@ The goal is to integrate **sales orders, ERP inventory, and production planning 
 ## Author
 **Reena Khimji Bhanushali**  
 *Data Engineer | AWS | ETL | SQL | Cloud* 
+
