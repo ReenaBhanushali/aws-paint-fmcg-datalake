@@ -1,16 +1,16 @@
 # AWS Data Lake – Paint Manufacturing (FMCG)
 
 This repository contains a cloud-based **Data Lake and Analytics Pipeline** for a **paint manufacturing FMCG company**.  
-The goal is to integrate **sales orders, ERP inventory, and production planning data** into a single AWS data platform for better demand vs. supply insights.
+The goal is to integrate **sales orders, ERP inventory, and production planning data** into a single AWS data platform for better demand vs. supply and sales Vs inventory insights.
 
 ---
 
 **Workflow:**
 1. Raw data files uploaded to **Amazon S3**
 2. Data cataloged using **AWS Glue Crawlers**
-3. ETL pipeline with **AWS Glue (PySpark)**
-4. Processed data stored in **S3 (Processed Zone)**
-5. Dashboards built with **Apache Superset** hosted on EC2 instance
+3. ETL pipeline with **AWS Glue (PySpark script)**
+4. Dataset creation in **Athena** for **visualization** 
+5. Dashboard built with **Apache Superset** hosted on **EC2 instance**
 
 ---
 
@@ -42,14 +42,15 @@ The goal is to integrate **sales orders, ERP inventory, and production planning 
 
 ## Business Value
 - Unified data from **ERP + Sales + Production**  
-- Analysis on **sales and inventory**  
-- Enabled real-time monitoring via dashboards  
+- Analysis on **sales and inventory** and **demand and supply**  
+- Enabled real-time monitoring via dashboard  
 
 ---
 
 ## Author
 **Reena Khimji Bhanushali**  
 *Data Engineer | AWS | ETL | SQL | Cloud* 
+
 
 
 
