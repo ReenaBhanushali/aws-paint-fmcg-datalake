@@ -1,7 +1,7 @@
 # AWS Data Lake – Paint Manufacturing (FMCG)
 
 This repository contains a cloud-based **Data Lake and Analytics Pipeline** for a **paint manufacturing FMCG company**.  
-The goal is to integrate **sales orders, ERP inventory, and production planning data** into a single AWS data platform for better demand vs. supply and sales Vs inventory insights.
+The goal is to integrate **sales orders, ERP inventory, and production planning data** into a single AWS data platform for better **demand vs. supply** and **sales vs. inventory** insights.
 
 ---
 
@@ -50,6 +50,7 @@ The goal is to integrate **sales orders, ERP inventory, and production planning 
 ## Author
 **Reena Khimji Bhanushali**  
 *Data Engineer | AWS | ETL | SQL | Cloud* 
+
 
 
 
